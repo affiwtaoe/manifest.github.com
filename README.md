@@ -1,0 +1,4 @@
+manifest.github.com
+===================
+
+manifest
